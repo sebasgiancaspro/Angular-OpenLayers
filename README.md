@@ -4,7 +4,7 @@
 
 Para el funcionamiento de esta aplicacion se instalo OpenLayers por consola: 
 
-npm install ol
+npm install ol <br>
 npm install @types/ol
 
 ## Servidor de desarrollo
